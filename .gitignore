@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 .env
 tareas
+=======
+*.env
+tareas
+>>>>>>> dev
